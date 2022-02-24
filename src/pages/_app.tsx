@@ -5,3 +5,5 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp
+
+// 23:25 aula 2
